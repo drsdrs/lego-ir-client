@@ -28,4 +28,4 @@ pfir = (command, cb)->
     else cb "\nOK\n"
 
 app.listen 3000, ->
-  console.log('Example app listening on port 3000!')
+  console.log('Lego IR Client is ready on Port 3000')
